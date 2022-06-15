@@ -1,3 +1,5 @@
+![example of ClipMatrix 3d mesh output](mecha_warrior.png)
+
 # open_clipmatrix : very short intro
 An open source ClipMatrix AI tool for text_to_3d mesh mapping; fixed deformable mesh template without rigging.
 Have fun making funny 3d creatures with it.
