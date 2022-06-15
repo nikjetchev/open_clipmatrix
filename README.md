@@ -20,6 +20,7 @@ Outputs: videos of the resulting generated mesh. by default saved in **clip_vide
 Cool features:
 - check my account for artwork and inspiration what is possible [@NJetchev](https://twitter.com/NJetchev) 
 - support for arbitrary template meshes for starting shapes
+- enhance starting templates by cloning
 - define regions of interest for fine part control
 - shadow mapping
 - normal mapping
