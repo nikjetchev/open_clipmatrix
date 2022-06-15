@@ -1,5 +1,5 @@
 ![example of ClipMatrix 3d mesh output](mecha_warrior.png)
-Figure: example ClipMatrix 3d mesh output for text prompt "Mecha Warrior in Sci Fi Giger style"
+Figure: 2 rotated camera views showing an example ClipMatrix 3d mesh output for text prompt "Mecha Warrior in Sci Fi Giger style"
 
 # open_clipmatrix : very short intro
 An open source ClipMatrix AI tool for text_to_3d mesh mapping; fixed deformable mesh template without rigging.
