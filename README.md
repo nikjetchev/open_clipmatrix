@@ -1,9 +1,10 @@
 # open_clipmatrix : very short intro
-An open source ClipMatrix AI tool for text_to_3d mesh mapping; fixed deformable mesh template without posing.
-I suggest to run in Colab, import and install defined like these.
-With small modifications you could also get it to run locally.
-In any case, use at least a 16GB GPU card for smooth performance.
+An open source ClipMatrix AI tool for text_to_3d mesh mapping; fixed deformable mesh template without rigging.
 Have fun making funny 3d creatures with it.
+Use provided jupyter notebook to define text prompts and use the tool.
+
+I suggest to run in Colab, import and installs defined for this case. With small modifications you could also get it to run locally.
+In any case, use at least a 16GB GPU card for smooth performance.
 
 # Introduction to ClipMatrix: text controlled 3D mesh deformation and stylization.
 
